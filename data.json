@@ -1,0 +1,23 @@
+{
+    "missions": [
+      {
+        "id": "mission1",
+        "name": "The Jewel Store Job",
+        "description": "This mission marks the player's first big heist in the game. As Michael, the player must plan and execute a robbery at a high-end jewelry store to pay off a debt. They have the choice to go in loud with guns blazing or take a stealthier approach with smart planning and precise execution.",
+        "image": "images/gta_pic2.png"
+      },
+      {
+        "id": "mission2",
+        "name": "Three's Company",
+        "description": "In this mission, Michael, Franklin, and Trevor team up for a daring extraction in downtown Los Santos. The trio must kidnap a federal agent under the guise of an official helicopter raid. This high-action mission requires players to coordinate between sniper support and helicopter piloting to achieve success.",
+        "image": "images/gta_pic3.png"
+      },
+      {
+        "id": "mission3",
+        "name": "Blitz Play",
+        "description": "In Blitz Play, players undertake a mission inspired by classic heist movies. Michael, Franklin, and Trevor work together to hijack a security truck by causing a massive traffic collision. This brute-force approach requires strategic placement of the crew and vehicles, along with timed execution to fend off law enforcement and secure the loot.",
+        "image": "images/gta_pic4.png"
+      }
+    ]
+  }
+  
