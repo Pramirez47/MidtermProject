@@ -1,0 +1,70 @@
+/* style for whole page */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/* style for body */
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #1A1A1D; 
+    color: #C5C6C7;
+    font-size: 1rem;
+}
+/* style for header */
+.header {
+    background-color: #4E4E50;
+    color: #66FCF1;
+    padding: 1em;
+    text-align: center;
+}
+/* style for nav bar */
+.nav {
+    margin-top: 1em;
+}
+.nav ul {
+    display: flex;
+    justify-content: center;
+    list-style-type: none;
+}
+.nav a {
+    color: #66FCF1;
+    text-decoration: none;
+    padding: 0.5em 1em;
+    display: block;
+}
+.nav a:hover {
+    color: #1A1A1D;
+}
+/* style for main content */
+.main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    /* move at bottom */
+    min-height: 80vh;
+    padding: 2em;
+    font-size: 1.2rem;
+}
+.content {
+    width: 100%;
+    max-width: 800px;
+    text-align: center;
+}
+/* style for footer */
+.footer {
+    background-color: #333;
+    color: #C5C6C7;
+    text-align: center;
+    padding: 1em;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
+/* style for images */
+#team-section img {
+    width: 200px; 
+    height: auto; 
+    margin-top: 20px; 
+    border-radius: 10px; 
+}

@@ -1,0 +1,23 @@
+{
+    "missions": [
+      {
+        "id": "mission1",
+        "name": "Jailbreak",
+        "description": "The game kicks off with a daring escape from the Stilwater Penitentiary, setting the stage for the protagonist's quest to rebuild the Saints and take revenge on those who betrayed them.",
+        "image": "images/sr2_pic1.png"
+      },
+      {
+        "id": "mission2",
+        "name": "Bank Error in Your Favor",
+        "description": "This mission has players robbing a bank to fund their gang activities, but things go awry, leading to an intense shootout and an explosive getaway.",
+        "image": "images/sr2_pic2.png"
+      },
+      {
+        "id": "mission3",
+        "name": "Eternal Sunshine",
+        "description": "In this pivotal mission, the player must rescue a key ally who's been kidnapped, leading to a dramatic showdown with a rival gang.",
+        "image": "images/sr2_pic3.png"
+      }
+    ]
+  }
+  
